@@ -15,5 +15,5 @@ This repository was created to hold data for educational purposes.
 | Krejča | Láhev | [Projekt-JS](https://tomastomastomastomastomas.github.io/Projekt-JS1/) |
 | Demeter | DPH | [Projekt-js](https://fajlipp.github.io/Projekt-JS/) |
 | Drnek | Projekt | [Project-JSS](https://github.com/DavidDrnek/project-jss.git) |
-| Matura | 1. Newton's Law | [Project] https://maturav.github.io/Project/ |
+| Matura | 1. Newton's Law | [Project] (https://maturav.github.io/Project/) |
 | ... | ... | ... |
